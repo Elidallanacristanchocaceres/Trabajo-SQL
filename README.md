@@ -1,8 +1,8 @@
 # Trabajo-SQL
 
 1)  
-![image](https://github.com/user-attachments/assets/2e95281f-df6b-4337-a486-f8d83992448b)
-![image](https://github.com/user-attachments/assets/5b4b0b96-a62f-4ec4-8fbb-3d3fda9d7ec8)
+- ![image](https://github.com/user-attachments/assets/2e95281f-df6b-4337-a486-f8d83992448b)
+- ![image](https://github.com/user-attachments/assets/5b4b0b96-a62f-4ec4-8fbb-3d3fda9d7ec8)
 
 2) 
 ![image](https://github.com/user-attachments/assets/5438621d-825e-4eec-b017-c77d799ee24d)
