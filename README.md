@@ -1,14 +1,14 @@
 ## Trabajo-SQL
 
-###Ejercicio 1)  
+### Ejercicio 1)  
 ![image](https://github.com/user-attachments/assets/ad3123dd-07f9-46a9-a2c8-34124bd2bb85)
 ![image](https://github.com/user-attachments/assets/dacdf946-a145-494e-ab5a-e00d1c25efdf)
 
-###Ejercicio 2) 
+### Ejercicio 2) 
 ![image](https://github.com/user-attachments/assets/7ee3f871-e8fb-4419-a8bd-5ea10866b71e)
 ![image](https://github.com/user-attachments/assets/8364cacf-7d4f-486b-acfb-45ba7293a27b)
 
-###Ejercicio 3) 
+### Ejercicio 3) 
 ![image](https://github.com/user-attachments/assets/8ef078be-8604-415f-b341-098cdce83e86)
 ![image](https://github.com/user-attachments/assets/63048203-6dee-451a-aa93-fe41bd872133)
 
